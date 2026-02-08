@@ -76,3 +76,4 @@ Response:
 - Email credentials are hardcoded. For production, consider using environment variables on Vercel
 - Ensure Gmail allows Less Secure App Access or use App Passwords (as configured)
 # email-service
+# email-service
